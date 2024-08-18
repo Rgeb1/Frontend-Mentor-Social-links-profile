@@ -28,4 +28,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Rgeb1](https://www.frontendmentor.io/profile/Rgeb1)
-- GitHub - [](https://github.com/Rgeb1)
+- [GitHub](https://github.com/Rgeb1)
