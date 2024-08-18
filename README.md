@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/res-tCSBkJQ_f5)]
-- Live Site URL: [[Add live site URL here](https://rgeb1.github.io/Frontend-Mentor-Social-links-profile/)]
+- Solution URL: [(https://www.frontendmentor.io/solutions/res-tCSBkJQ_f5)]
+- Live Site URL: [(https://rgeb1.github.io/Frontend-Mentor-Social-links-profile/)]
 
 ### Screenshot
 
