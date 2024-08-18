@@ -86,7 +86,8 @@ p {
   transition: 0.3s;
 }
 
-.profile-links:hover {
+.profile-links:hover,
+.profile-links:focus {
   background-color: var(--green);
   color: var(--greyMid);
 }
